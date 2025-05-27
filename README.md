@@ -27,7 +27,7 @@
 
 ---
 
-## 🌐 **Contacta Conmigo** 🌐
+## 📩 **Contacta Conmigo** 📩
 
 <div align="center">
   <a href="https://github.com/Sanyer16">
@@ -43,7 +43,7 @@
 
 ---
 
-## 📊 **Estadísticas de GitHub**
+## 📊 **Estadísticas de mi GitHub** 📊
 
 <div align="center">
   <a href="https://github.com/Sanyer16">
@@ -52,8 +52,17 @@
 </div>
 
 ---
+<!--
+<p align="center">
+  <a href="https://github.com/Sanyer16">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanyer16&theme=radical" alt="Languages by Repo" />
+  </a>
+</p>
 
-## 🔥 **Mis Habilidades**
+---
+-->
+
+## 🧠 **Mis Habilidades** 🔥 
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,scala,r,mysql,postgres,mongodb,redis,azure,docker,github,postman" alt="Skills" />
@@ -62,7 +71,7 @@
 
 ---
 
-# 🔥Featured Projects: 🚀
+# 🚀 Featured Projects: 🚀
 
 ### 🟢 [**Proximamente**] 🟢
 - 📝 **Descripción**: ...
