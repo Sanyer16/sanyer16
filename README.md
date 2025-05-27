@@ -27,7 +27,7 @@
 
 ---
 
-## 🌐 **Conéctate Conmigo** 🌐
+## 🌐 **Contacta Conmigo** 🌐
 
 <div align="center">
   <a href="https://github.com/Sanyer16">
