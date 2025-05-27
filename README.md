@@ -134,6 +134,6 @@
 <div align="center">
   <h3> 🫡 ¡Gracias por visitar mi perfil! 💯 </h3>
   <a href="https://github.com/Sanyer16">
-    <img src="https://komarev.com/ghpvc/?username=Sanyer16&label=Visitas%20al%20perfil&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Sanyer16&label=Visitas%20al%20perfil&color=brightgreen&style=for-the-badge" alt="Profile Views" />
   </a>
 </div>
