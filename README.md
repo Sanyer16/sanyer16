@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" height="50" alt="Hello">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnN6MG15eTF3bmtsbHhwNnJjbDFiOXc5ZzgxcmdnejBhN2o5Y2d6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" height="100" alt="Hello">
 </div>
 
 ## 🎉 **Bienvenido a mi GitHub** 👨‍💻
