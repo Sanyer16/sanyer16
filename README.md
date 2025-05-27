@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=000000&size=24&center=true&vCenter=true&width=500&lines=💻+Ingeniero+de+Datos;📊+Análista+de+Datos;📊+Big+Data;🚀+Siempre+Aprendiendo!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FFFFFF&size=24&center=true&vCenter=true&width=500&lines=💻+Ingeniero+de+Datos;📊+Análista+de+Datos;📊+Big+Data;🚀+Siempre+Aprendiendo!">
   </a>
 </p>
 
@@ -20,9 +20,9 @@
 - **Frameworks**: Apache Spark, Kafka, Hadoop.
 - **Herramientas**: Power BI, Looker Studio, Docker, Excel.
 
+
 ✨ **Me encanta**:
 - Crear soluciones que realmente funcionen y sean fáciles de usar.
-- Aportar en proyectos **open-source**.
 - Compartir lo que sé y aprender con la comunidad.
 
 ---
