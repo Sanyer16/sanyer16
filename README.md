@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=000000&size=24&center=true&vCenter=true&width=500&lines=💻+Ingeniero+de+Datos;📊+Análista+de+Datos;🚀+Siempre+Aprendiendo!📊+Big+Data;🚀+¡+Siempre+Aprendiendo+!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=000000&size=24&center=true&vCenter=true&width=500&lines=💻+Ingeniero+de+Datos;📊+Análista+de+Datos;📊+Big+Data;🚀+Siempre+Aprendiendo!">
   </a>
 </p>
 
@@ -16,36 +16,28 @@
 
 ## 🎉 **Bienvenido a mi GitHub** 👨‍💻
 👋 Soy un desarrollador apasionado por la **tecnología** y los **datos**. Trabajo con:
-- **Lenguajes**: Python, Java, SQL.
-- **Herramientas**: Docker, Prometheus, FastAPI, Power BI, Excel.
+- **Lenguajes**: Python, Scala, R, SQL (Sql Server, MySql, Postgres), NoSql (MongoDB).
+- **Frameworks**: Apache Spark, Kafka, Hadoop.
+- **Herramientas**: Power BI, Looker Studio, Docker, Excel.
 
 ✨ **Me encanta**:
-- Crear soluciones innovadoras y eficientes.
-- Participar en proyectos **open-source**.
-- Compartir conocimiento con la comunidad.
+- Crear soluciones que realmente funcionen y sean fáciles de usar
+- Aportar en proyectos **open-source**
+- Compartir lo que sé y aprender con la comunidad
 
 ---
 
 ## 🌐 **Conéctate Conmigo** 🌐
 
 <div align="center">
-  <a href="https://github.com/miguelASL">
+  <a href="https://github.com/Sanyer16">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:msarmientolevy@gmail.com">
+  <a href="mailto:sanyer.duque@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/miguel-sarmiento-levy/">
+  <a href="https://www.linkedin.com/in/sanyerduque/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://open.spotify.com/show/3nz8yOXAfpmdYxSrkwyhLe?si=f36a4273252547ce">
-    <img src="https://img.shields.io/badge/Spotify-%231ED760.svg?logo=spotify&logoColor=white" alt="Spotify">
-  </a>
-  <a href="https://www.instagram.com/data_sarmi/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.tiktok.com/@data_sarmi/">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white" alt="TikTok">
   </a>
 </div>
 
@@ -54,8 +46,8 @@
 ## 📊 **Estadísticas de GitHub**
 
 <div align="center">
-  <a href="https://github.com/miguelASL">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miguelASL&theme=radical" alt="Languages by Repo" style="width: 48%; height: auto; max-height: 200px;" />
+  <a href="https://github.com/Sanyer16">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanyer16&theme=radical" alt="Languages by Repo" style="width: 48%; height: auto; max-height: 200px;" />
   </a>
 </div>
 
@@ -64,7 +56,7 @@
 ## 🔥 **Mis Habilidades**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,docker,git,linux,postman,vscode" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,scala,r,mysql,postgres,mongodb,redis,azure,docker,github,postman" alt="Skills" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="48" height="48" style="margin-left: 10px;" />
 </div>
 
