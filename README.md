@@ -20,7 +20,7 @@
 👋 Soy un apasionado por los **datos** y la **tecnología**. Trabajo con:
 
 
-| Categoría                               | Tecnologías                                                                 |
+| 🧠 Competencia Técnica                               | 🛠️ Tecnologías y Herramientas                                                                 |
 |----------------------------------------|------------------------------------------------------------------------------|
 | 💻 **Lenguajes y Manipulación de Datos**  | Python (Pandas, PySpark), Scala, R, SQL (SQL Server, MySQL, PostgreSQL), NoSQL (MongoDB) |
 | 🧮 **Procesamiento Distribuido y Big Data** | Apache Spark (PySpark), Apache Kafka, Hadoop                                |
