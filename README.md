@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Sanyer16/sanyer16/blob/main/portada-github.webp" alt="Encabezado personalizado" width="65%">
+  <img src="https://github.com/Sanyer16/sanyer16/blob/main/perfil_.png" alt="Encabezado personalizado" width="85%">
 </div>
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> ¡Hola! Soy <b>Sanyer Duque</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
