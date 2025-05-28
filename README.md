@@ -20,12 +20,12 @@
 👋 Soy un apasionado por los **datos** y la **tecnología**. Trabajo con:
 
 
-| 🧠 Competencia Técnica                               | 🛠️ Tecnologías y Herramientas                                                                 |
-|----------------------------------------|------------------------------------------------------------------------------|
-| 💻 **Lenguajes y Manipulación de Datos**  | Python (Pandas, PySpark), Scala, R, SQL (SQL Server, MySQL, PostgreSQL), NoSQL (MongoDB) |
-| 🧮 **Procesamiento Distribuido y Big Data** | Apache Spark (PySpark), Apache Kafka, Hadoop                                |
-| 📊 **Visualización y Reportería**         | Power BI, Looker Studio, Excel                                              |
-| 🧰 **Entornos y Control de Versiones**    | Visual Studio Code, Jupyter Notebook, Git, GitHub, Docker                   |
+| 🧠 Competencia Técnica                                | 🛠️ Tecnologías y Herramientas                                                                 |
+|-----------------------------------------|------------------------------------------------------------------------------|
+| 💻 **Lenguajes y Manipulación de Datos**   | Python (Pandas, PySpark), Scala, R, SQL (SQL Server, MySQL, PostgreSQL), NoSQL (MongoDB) |
+| 🧮 **Procesamiento Distribuido y Big Data**  | Apache Spark (PySpark), Apache Kafka, Hadoop                                |
+| 📊 **Visualización y Reportería**          | Power BI, Looker Studio, Excel                                              |
+| 🧰 **Entornos y Control de Versiones**     | Visual Studio Code, Jupyter Notebook, Git, GitHub, Docker                   |
 
 <br>
 
