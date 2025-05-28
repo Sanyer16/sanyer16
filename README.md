@@ -23,7 +23,8 @@
 | 🧠 Competencia Técnica                                | 🛠️ Tecnologías y Herramientas                                                                 |
 |-----------------------------------------|------------------------------------------------------------------------------|
 | 💻 **Lenguajes y Manipulación de Datos**   | Python (Pandas, PySpark), Scala, R, SQL (SQL Server, MySQL, PostgreSQL), NoSQL (MongoDB) |
-| 🧮 **Procesamiento Distribuido y Big Data**  | Apache Spark (PySpark), Apache Kafka, Hadoop                                |
+| 🧮 **Procesamiento Distribuido y Big Data**  | Apache Spark, Apache Kafka, Hadoop                                        |
+| 🔄 **Integración y Procesos ETL**          | PySpark, ETL Pipelines, Apache Airflow, SSIS                                |
 | 📊 **Visualización y Reportería**          | Power BI, Looker Studio, Excel                                              |
 | 🧰 **Entornos y Control de Versiones**     | Visual Studio Code, Jupyter Notebook, Git, GitHub, Docker                   |
 
