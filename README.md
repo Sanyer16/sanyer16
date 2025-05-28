@@ -11,15 +11,23 @@
 </p>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnN6MG15eTF3bmtsbHhwNnJjbDFiOXc5ZzgxcmdnejBhN2o5Y2d6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" height="100" alt="Hello">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnN6MG15eTF3bmtsbHhwNnJjbDFiOXc5ZzgxcmdnejBhN2o5Y2d6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" height="130" alt="Hello">
 </div>
 
 ## 🎉 **Bienvenido a mi GitHub** 👨‍💻
-👋 Soy un apasionado por los **datos** y la **tecnología**. Trabajo con:
-- **Lenguajes**: Python, Scala, R, SQL (Sql Server, MySql, Postgres), NoSql (MongoDB).
-- **Frameworks**: Apache Spark, Kafka, Hadoop.
-- **Herramientas**: Power BI, Looker Studio, Docker, Excel.
+<br>
 
+👋 Soy un apasionado por los **datos** y la **tecnología**. Trabajo con:
+
+
+| Categoría                               | Tecnologías                                                                 |
+|----------------------------------------|------------------------------------------------------------------------------|
+| 💻 **Lenguajes y Manipulación de Datos**  | Python (Pandas, PySpark), Scala, R, SQL (SQL Server, MySQL, PostgreSQL), NoSQL (MongoDB) |
+| 🧮 **Procesamiento Distribuido y Big Data** | Apache Spark (PySpark), Apache Kafka, Hadoop                                |
+| 📊 **Visualización y Reportería**         | Power BI, Looker Studio, Excel                                              |
+| 🧰 **Entornos y Control de Versiones**    | Visual Studio Code, Jupyter Notebook, Git, GitHub, Docker                   |
+
+<br>
 
 ✨ **Me encanta**:
 - Crear soluciones que realmente funcionen y sean fáciles de usar.
