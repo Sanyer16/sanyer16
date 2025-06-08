@@ -6,9 +6,10 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FFFFFF&size=24&center=true&vCenter=true&width=500&lines=💻+Ingeniero+de+Datos;📊+Análista+de+Datos;📊+Big+Data;🚀+Siempre+Aprendiendo!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FFFFFF&size=24&center=true&vCenter=true&width=800&lines=💻Ingeniero%20de%20Sistemas%20y%20Telecomunicaciones📡;🧬%20Especialista%20en%20Big%20Data%20y%20Analitica%20de%20Datos📊;🧑‍💻%20Ingeniero%20de%20Datos;🚀%20Siempre%20Aprendiendo!">
   </a>
 </p>
+
 
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnN6MG15eTF3bmtsbHhwNnJjbDFiOXc5ZzgxcmdnejBhN2o5Y2d6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" height="130" alt="Hello">
